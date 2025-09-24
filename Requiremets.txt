@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP & Transformers
+torch
+transformers
+datasets
+
+# Explainability
+lime
+shap
+
+# Notebook support
+jupyter
+notebook
+
+# Optional (visualization)
+wordcloud
