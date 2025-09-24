@@ -57,7 +57,7 @@ git clone https://github.com/your-username/Sentiment-Analysis-XAI.git
 cd Sentiment-Analysis-XAI
 
 pip install -r requirements.txt
-
+---
 ## Future Work
 
 Multi-class sentiment classification (positive, negative, neutral)
@@ -67,15 +67,16 @@ Cross-lingual sentiment analysis
 Multimodal sentiment (text + images + audio)
 
 Robustness against sarcasm/adversarial attacks
-
+---
 
 ## 🙌 Acknowledgement
 
 This project was carried out as part of my academic work at
 The Aror University of Art, Architecture, Design & Heritage, Sukkur
-
+---
 ##📧 Contact
 
 Muhammad Shoaib Lashari
 📩 Email: mshoaibb707@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-shoaib-726b0a382/
+---
